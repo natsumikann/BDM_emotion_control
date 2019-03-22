@@ -1,7 +1,5 @@
 # emotion_control
 
-ファイルについて
-* info.txt
-温度、湿度を書き込むためのファイル。一行目に温度、二行目に湿度を書き込む。具体例は以下のようにする。
-26.0
-600
+## About this repoistory
+
+We implemented these codes for a course work at University. "Emotion control" works to visualize the status of plants such as moisture in a unique way. Used speech-to-text API and implemented in Python. We also created hardware with RaspberryPi and other modeuls. It will enrich your gardening life.
